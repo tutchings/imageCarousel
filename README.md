@@ -2,6 +2,9 @@
 
 In this activity, we are going to create an image carousel that allows us to cycle through images. 
 
+## Deployed Project Link
+* [`Image Carousel`](https://tutchings.github.io/imageCarousel/)
+
 ## Instructions
 
 * In a file called `index.html`, create a div that contains two buttons: `previous` and `next`. The carousel should support the following features: 
